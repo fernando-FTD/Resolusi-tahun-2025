@@ -5,3 +5,4 @@ NANDO RESOLUSI
 - bisa melakukan data analysis dan paham dasar" data science
 - mastering the foundations of computer science
 - paham ML
+- improve how i communicate with others
